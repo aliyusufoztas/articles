@@ -15,7 +15,7 @@ He is proficient in C#, HTML, CSS, experienced in C, C++, PHP, Python, Java, Jav
 * Pong (2023): A modern-looking mobile arcade game.
 * The Spaceship: A mobile arcade game.
 
-### Language Proficiency
+### His Language Proficiency
 * Turkish: Native speaker.
 * English: Intermediate or advanced.
 * German: Intermediate (B1 level).
